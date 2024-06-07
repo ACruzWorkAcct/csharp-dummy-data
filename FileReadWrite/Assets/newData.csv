@@ -1,0 +1,6 @@
+CustomerName,TransNumber,TransDate,PO,SalesOrder,Address,ItemNumber,Quantity,UnitPrice
+HiTec Enterprises,@#$%^&,2016-01-02,# 000-890,110109185,Dagobah System 4537,XYZJ2HW9,1,199.98
+AHiTec Enterprises,NULL,2016-01-03,# 000-891,110109186,ADagobah System 4537,AXYZJ2HW9,2,200.98
+BHiTec Enterprises,NULL,2016-01-04,# 000-892,110109187,BDagobah System 4537,BXYZJ2HW9,3,201.98
+CHiTec Enterprises,NULL,2016-01-05,# 000-893,110109188,CDagobah System 4537,CXYZJ2HW9,4,202.98
+DHiTec Enterprises,NULL,2016-01-06,# 000-894,110109189,DDagobah System 4537,DXYZJ2HW9,5,203.98
